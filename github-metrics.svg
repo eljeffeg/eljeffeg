@@ -219,11 +219,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.37287000471775" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="249.37287000471775" y="0" width="99.44982751093383" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="348.8226975156516" y="0" width="70.07043624282854" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="418.89313375848013" y="0" width="35.73685327597261" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.62998703445277" y="0" width="5.370012965547275" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.53118458226606" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="249.53118458226606" y="0" width="99.37507760844028" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="348.90626219070634" y="0" width="70.01776889882277" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="418.9240310895291" y="0" width="35.70999223091437" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.6340233204434" y="0" width="5.365976679556535" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -447,7 +447,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 53.6k out of 206m repositories</span>
+                                    <span class="gh">ranked 53.6k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 880 stars</div>
                             </div>
@@ -618,7 +618,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 949k out of 206m repositories</span>
+                                    <span class="gh">ranked 949k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -837,7 +837,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 May 2024, 16:06:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 17:05:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
